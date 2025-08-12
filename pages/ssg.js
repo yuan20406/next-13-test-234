@@ -7,7 +7,7 @@ export default function SSGPage({ data, buildTime }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>SSG 测试页面</title>
+        <title>SSG 测试页面111</title>
         <meta name="description" content="静态站点生成测试页面" />
       </Head>
 
